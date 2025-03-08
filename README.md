@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data.git]
+   git clone https://github.com/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data.git
    cd Predicting-Exam-Grade-using-Multimodal-Physiological-data
    ```
 2. Install dependencies:
