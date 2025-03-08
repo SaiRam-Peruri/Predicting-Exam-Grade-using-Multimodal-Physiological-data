@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AI_Final_Project.git
-   cd AI_Final_Project
+   [git clone https://github.com/yourusername/AI_Final_Project.git](https://github.com/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data.git)
+   cd Predicting-Exam-Grade-using-Multimodal-Physiological-data
    ```
 2. Install dependencies:
    ```sh
