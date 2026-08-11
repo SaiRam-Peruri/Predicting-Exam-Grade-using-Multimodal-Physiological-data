@@ -1,4 +1,24 @@
-# Predicting-Exam-Grade-using-Multimodal-Physiological-data
+<div align="center">
+
+# 📈 Predicting Exam Grades from Wearable Physiological Data
+
+### Can a wristband predict how you will do on an exam? Modelling cognitive performance from a wearable exam-stress dataset.
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<p>
+<img alt="last commit" src="https://img.shields.io/github/last-commit/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data?style=flat-square&color=00D4FF"/>
+<img alt="repo size" src="https://img.shields.io/github/repo-size/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data?style=flat-square&color=7B2CBF"/>
+<img alt="top language" src="https://img.shields.io/github/languages/top/SaiRam-Peruri/Predicting-Exam-Grade-using-Multimodal-Physiological-data?style=flat-square&color=00A67E"/>
+</p>
+
+</div>
 A Wearable Exam Stress Dataset for Predicting Cognitive Performance in Real-World Settings
 
 ## 🎯 Project Overview
@@ -49,3 +69,12 @@ Feel free to fork this repository and contribute improvements. Open a pull reque
 ## 📄 License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
+---
+
+<div align="center">
+
+**Built by [Sai Ram Peruri](https://github.com/SaiRam-Peruri)** · AI Solutions Engineer · Former Cloud DevOps Engineer
+
+⭐ If this project helped you, consider starring the repo.
+
+</div>
